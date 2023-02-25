@@ -12,7 +12,7 @@ body {
 }
 */
 .page-header {
-    background-color: #C25100;
+    background-color: #F32850;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -62,7 +62,11 @@ h4 {
 
 .post h2 a,
 .post h2 a:visited {
-    color: #000000;
+    color: #1cc7b2;
+}
+
+.post h2 a:hover {
+    color: red;
 }
 
 .post > .date,
